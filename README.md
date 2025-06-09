@@ -34,26 +34,43 @@ The platform is crafted to offer a smooth and engaging shopping experience, powe
 ## 📁 Project Structure
 tanpide/
 ├── client/ # Frontend (React.js)
+
 │ ├── public/
+
 │ └── src/
+
 │ ├── assets/ # Images, logos, icons
+
 │ ├── components/ # Reusable UI Components
+
 │ ├── pages/ # Home, Product, Cart, Auth, etc.
+
 │ ├── redux/ # Redux toolkit for state management
+
 │ ├── App.js
+
 │ └── index.js
 │
 ├── server/ # Backend (Express.js)
+
 │ ├── config/ # DB & cloud config
+
 │ ├── controllers/ # Logic for routes
+
 │ ├── models/ # Mongoose schemas
+
 │ ├── routes/ # API Endpoints
+
 │ ├── middleware/ # Auth, Error handling
+
 │ └── index.js
 │
 ├── .env
+
 ├── package.json
+
 ├── README.md
+
 └── LICENSE
 
 
