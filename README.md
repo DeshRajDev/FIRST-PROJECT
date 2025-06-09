@@ -117,11 +117,7 @@ tanpide/
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/tanpide.git
-   cd tanpide
-npm install
 
-cd client
-npm install
 
 MONGO_URI=your_mongo_db_connection
 JWT_SECRET=your_jwt_secret_key
