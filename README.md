@@ -186,4 +186,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🎯 Motto
 "TANPIDE – Everything You Need, One Click Away."
 
+🧑🏼‍🔬 Author: DESHRAJ.
+
 
